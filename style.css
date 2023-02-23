@@ -1,0 +1,623 @@
+/* 
+Theme Name: theme-tf
+Theme URI: www.transformers.cl
+Description: Sitio web de entretenimiento
+Version: 1.0
+Author: Bastian 🔥
+*/
+
+
+.bg-dark1 {
+    background-color: #000000;
+    color: white;
+    
+}
+
+
+
+
+.navbar-light .navbar-nav .nav-link {
+ color: white;
+}
+
+.navbar-light .navbar-nav :hover .nav-link {
+    color: yellow;
+   }
+
+
+.logo a {
+    margin-left: 5%;
+    width: 25%;
+}
+
+.aa {
+    color: aqua;
+}
+.navegador {
+    float: right;
+}
+
+/* separador de secciones*/
+.separacion {
+    margin-top: 8%;
+}
+
+
+.tf2 img {
+    width: 100%;
+    height: auto;
+}
+.textotf2 h2 {
+    color: rgb(255, 255, 255);
+  
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+    
+}
+.textotf2  {
+   
+    margin-top: 20%;
+    
+}
+/* span con color*/
+.conoce {
+    color: #e8fd2f;
+}
+
+.colorbody {
+    background-color: black;
+    
+}
+
+
+.videoboton {
+    background-color: #850909;
+    border-color: rgb(189, 186, 22);
+    border-width: 2px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0%;
+    margin-left: 37%;
+    margin-top: 5%;
+}
+
+.videoboton:hover {
+    
+    background-color: #100881;
+    
+    font-size: 20px;
+    transition: 0.5s;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 0%;
+    margin-left: 36%;
+    margin-top: 5%;
+}
+
+
+/* seccion Saga*/
+
+.grande2 {
+    width: 100%;
+     height: 700px;
+     background: url('../theme-tf/img/aasdwede.png')  no-repeat 50%;
+     background-size: contain;
+     background-position: top;
+     position: relative;
+     
+ }
+ 
+ .textogrande {
+     position: absolute;
+     color:  #ffffff;
+     text-align: center;
+ margin-left: 30%;
+ margin-right: 32%;
+ margin-top: 25%;
+ }
+ 
+ .textogrande h2 {
+     font-size: 20px;
+     font-family: 'Courier New', Courier, monospace;
+ }
+
+ .textopregunta {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+ }
+
+.textopregunta img {
+    width: 30%;
+}
+
+.tituloclip {
+    text-align: center;
+}
+
+.iii h2 {
+    bottom: 0;
+    top: 0;
+    font-size: 40px;
+    margin-top: 8%;
+    color:rgb(243, 174, 45) ;
+    margin-left: 48%;
+}
+
+
+
+
+ .linea-amarilla {
+    border-bottom: yellow solid 5px;
+    width: 40%;
+    margin-bottom: 2% ;
+    margin-left: 30%;
+    margin-top: 12px;  
+}
+
+
+.imagengrande img{
+    width: 100%;
+}
+
+
+
+.textolast {
+    
+    margin-top: 10%;
+    padding: 30px;
+    background-color: rgb(243, 174, 45);
+    border-radius: 6px;
+
+}
+
+.textolast h2 {
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    
+    font-family: fantasy;
+    
+}
+.textolast h6 {
+    color: white;
+  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.textolast p{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: fantasy;
+    margin-right: 12%;
+}
+
+/* clips single*/
+
+.cajaclips {
+    text-align: center;
+
+}
+.cajaclips h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.tf {
+    color: #e5ff00;
+}
+
+.cajavideos {
+    width: 80%;
+}
+
+.botonatras{
+    text-align: center;
+}
+
+
+/* Rodaje*/
+
+.michaelbay {
+    background: url('../img/Sin-titulo-82.png') no-repeat 50%;
+    background-size: contain;
+    height: 850px;
+    position: relative;
+    background-position: top;
+}
+
+
+.textobay h2 {
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    top: 0;
+ 
+    font-size: 2.5em;
+   
+}
+
+.linea-amarilla4 {
+    border-bottom: yellow solid 5px;
+    width: 40%;
+    margin-bottom: 2% ;
+    margin-top: 12px;  
+    margin-left: 30%;
+}
+
+
+.textobay {
+   padding: 20px;
+    text-align: center;
+}
+
+
+.photos {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+
+.michaelbay2 {
+    color: #ffffff;
+padding: 10px;
+
+}
+
+.michaelbay2 h2 {
+    margin-left: 28%;
+    font-family: 'Courier New', Courier, monospace;
+    color: #e8fd2f;
+}
+
+.michaelbay2 h4 {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+}
+
+.cajalink {
+ 
+
+    text-align: center;
+}
+
+.cajalink a {
+    padding: 8px 18px;
+    margin-right: 8%;
+    background-color: #e5ff00;
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cajalink h5 {
+    color: red;
+    margin-bottom: 5%;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.mapa {
+    margin-left: 20%;
+}
+
+.rodajetf3 h2 {
+    color: #e5ff00;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 10%;
+}
+
+.rodajesvideos {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.paginacion {
+    margin-top: 6%;
+    color: yellow;
+}
+
+/* vehiculos*/
+
+.camarofondo {
+    background: url('img/Sin-titulo-3.png') no-repeat 50%;
+    position: relative;
+    background-size: contain;
+    background-position:top;
+    height: 800px;
+}
+.textofondo h2{
+   color: rgb(255, 255, 255);
+   margin-left: 15%;
+   margin-top: 8%;
+   width: 100%;
+   padding: 20px ;
+   font-size: 2em;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.textofondo{
+    color: white;
+   
+    
+    position: absolute;
+ }
+
+ .btn-warning {
+   border-width: 8px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   border-style: groove;
+   color: white;
+   border-color: #535353;
+   background-color: #850909;
+ }
+
+ .btn-warning:hover {
+    border-width: 8px;
+  background-color: #dfcb18;
+  transition: 0.6s;
+  color: rgb(0, 0, 0);
+    border-style: groove;
+    border-color: #535353;
+  }
+
+ .textopregunta {
+    color: white;
+ }
+
+
+ .linea-amarilla {
+    border-bottom: yellow solid 5px;
+    width: 40%;
+    margin-bottom: 2% ;
+    margin-left: 30%;
+    margin-top: 12px;  
+}
+
+
+.barricade h2{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 10%;
+}
+
+
+
+
+.iii h2 {
+    bottom: 0;
+    top: 0;
+    font-size: 40px;
+    margin-top: 8%;
+    color:rgb(243, 174, 45) ;
+    margin-left: 48%;
+}
+
+
+
+/* videojuegos*/
+
+.separacion2 {
+    margin-top: 7%;
+}
+
+.titulojuego h2 {
+    color: rgb(255, 255, 255);
+    font-size:50px;
+    font-family: 'Courier New', Courier, monospace;
+    
+ }
+ .titulojuego div {
+   margin-left: 40%;
+    text-align: center;
+ }
+
+ .linea-amarillaa {
+    border-bottom: yellow solid 5px;
+    width: 18%;
+    margin-bottom: 2% ;
+
+    margin-top: 12px;  
+}
+ .textofondo3 {
+     color: white;
+    
+     
+     position: absolute;
+  }
+
+
+
+
+.logoautob img {
+    width: 60%;
+}
+
+
+
+
+.botoncolor  {
+    padding: 10px 30px;
+    color: #ffffff;
+    font-size: 22px;
+    font-family: fantasy;
+    background-color: #8a877e;
+    border-style: inset;
+    border-width: 5px;
+    border-color: #ffffff;
+    
+}
+
+.botoncolor:hover {
+    padding: 10px 30px;
+    color: #000000;
+    font-size: 20px;
+    font-family: fantasy;
+    background-color: #ffffff;
+    border-style: inset;
+    border-width: 5px;
+    border-color: #ffe600ce;
+    transition: 0.5s;
+}
+
+
+.botoncolor2  {
+    padding: 10px 30px;
+    color: #000000;
+    font-size: 22px;
+    font-family: fantasy;
+    background-color: #8a877e;
+    border-style: inset;
+    border-width: 5px;
+    border-color: #ffffff;
+    
+}
+
+.botoncolor2:hover {
+    padding: 10px 30px;
+    color: #ffffff;
+    transition: 0.5s;
+    font-size: 20px;
+    font-family: fantasy;
+    background-color: #000000;
+    border-style: inset;
+    border-width: 5px;
+    border-color: #ffffff;
+}
+
+
+
+.gamess {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.gamess h2{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+.cardcont {
+    text-align: center;
+    background-color: #26288d;
+}
+
+.cardcont h5 {
+    color: #ffffff;
+}
+
+.cardcont p {
+    color: #ffffff;
+}
+
+
+.card-body1 :hover {
+    background-color: rgb(145, 11, 11);
+transition-duration: 0.5s;
+transition-property: initial;
+
+}
+
+
+.wpforms-field-label {
+    color: aliceblue;
+}
+.form h2 {
+   color: #e5ff00;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.form {
+    color: rgb(0, 0, 0);
+    width: 60%;
+}
+
+
+/* footer*/
+
+.social {
+    float: right;
+    margin-right: 5%;
+  
+}
+.social i{
+padding-left: 10px;
+  color: #757575;
+}
+
+.copyright{
+    color: white;
+}
+
+.darkfooter{
+    background-color: black;
+    background-size: cover;
+    height: 150px;
+}
+
+
+
+/* 404*/
+
+.gif404 img {
+    width: 100%;
+    border-radius: 50px;
+}
+
+
+
+.caja404 {
+    margin-top: 12%;
+    text-align: center;
+}
+
+.caja404 h2{
+    color:yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.caja404 h1{
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.videoboton2 {
+    background-color: #851c09;
+    border-color: rgb(189, 186, 22);
+    border-width: 2px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+    margin-top: 5%;
+}
+
+.videoboton2:hover {
+    
+    background-color: #100881;
+    transition: 0.5s;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+   
+    margin-top: 5%;
+}
+
+
